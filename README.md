@@ -7,3 +7,4 @@ para ejecutar el sistema , debes poner:
 ```bash
 npm install react
 ```
+Sistema de registro 2
